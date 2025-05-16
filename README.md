@@ -16,18 +16,27 @@ Here’s a quick snapshot of who I am:
 
 ### Core Stack
 
-![Core Stack Light](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light#gh-light-mode-only)
-![Core Stack Dark](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light" alt="Core Stack">
+</picture>
 
 ### Currently Studying
 
-![Studying Light](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light#gh-light-mode-only)
-![Studying Dark](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light">
+  <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light" alt="Currently Studying">
+</picture>
 
 ### Interested In
 
-![Interested Light](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light#gh-light-mode-only)
-![Interested Dark](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light">
+  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light" alt="Interested In">
+</picture>
 
 ## GitHub Contributions
 
