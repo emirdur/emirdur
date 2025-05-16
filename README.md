@@ -16,35 +16,23 @@ Here’s a quick snapshot of who I am:
 
 ### Core Stack
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light#gh-light-mode-only" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark#gh-dark-mode-only" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light" alt="Core Stack Light" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark" alt="Core Stack Dark" height="50" />
 </p>
 
 ### Currently Studying
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light#gh-light-mode-only" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark#gh-dark-mode-only" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light" alt="Studying Light" height="50" />
+  <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark" alt="Studying Dark" height="50" />
 </p>
 
 ### Interested In
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light#gh-light-mode-only" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark#gh-dark-mode-only" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light" alt="Interested Light" height="50" />
+  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark" alt="Interested Dark" height="50" />
 </p>
 
 ## GitHub Contributions
