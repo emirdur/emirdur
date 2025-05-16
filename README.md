@@ -14,8 +14,6 @@ Here’s a quick snapshot of who I am:
 
 ## Skills
 
-## Skills
-
 ### Core Stack
 
 <picture>
