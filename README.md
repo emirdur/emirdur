@@ -1,20 +1,24 @@
 PROTOCOL: QXBwcm9hY2hpbmcgZmluYWwgZGVzdGluYXRpb24u  
 PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu
 
-<h1 style="text-decoration: none;">Welcome, space explorer!</h1>
+<p><strong style="font-size: 28px; font-family: monospace;">Welcome, space explorer!</strong></p>
 
-<h2 style="text-decoration: none;">About Me</h2>
+<p><strong style="font-size: 22px; font-family: monospace;">About Me</strong></p>
 
+<p style="font-family: monospace;">
 Here’s a quick snapshot of who I am:
+</p>
 
-- I enjoy working close to the metal: systems programming, performance tuning, and memory management
-- I build scalable full-stack apps with a strong focus on system design and cloud infrastructure
-- I explore ML concepts from efficient data processing to core algorithm implementations
-- I'm passionate about security (CTFs, securing projects, keeping up with latest vulnerabilities and mitigations)
+<ul style="font-family: monospace;">
+<li>I enjoy working close to the metal: systems programming, performance tuning, and memory management</li>
+<li>I build scalable full-stack apps with a strong focus on system design and cloud infrastructure</li>
+<li>I explore ML concepts from efficient data processing to core algorithm implementations</li>
+<li>I'm passionate about security (CTFs, securing projects, keeping up with latest vulnerabilities and mitigations)</li>
+</ul>
 
-<h2 style="text-decoration: none;">Skills</h2>
+<p style="margin-top: 28px;"><strong style="font-size: 22px; font-family: monospace;">Skills</strong></p>
 
-<h3 style="text-decoration: none;">Core Stack</h3>
+<p><strong style="font-size: 18px; font-family: monospace;">Core Stack</strong></p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -22,7 +26,7 @@ Here’s a quick snapshot of who I am:
   </a>
 </p>
 
-<h3 style="text-decoration: none;">Currently Studying</h3>
+<p><strong style="font-size: 18px; font-family: monospace;">Currently Studying</strong></p>
 
 <p>
   <a href="https://skillicons.dev">
@@ -30,7 +34,7 @@ Here’s a quick snapshot of who I am:
   </a>
 </p>
 
-<h1 style="text-decoration: none;">End of transmission. Launching module in T-10... Bon Voyage!</h1>
+<p style="margin-top: 28px;"><strong style="font-size: 28px; font-family: monospace;">End of transmission. Launching module in T-10... Bon Voyage!</strong></p>
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
 PROTOCOL: RWFzdGVyIGVnZyBjb21pbmcgc29vbi4=
