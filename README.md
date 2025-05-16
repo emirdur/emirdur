@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/space_pixelated.png" width="100%" style="object-fit:fill" alt="space"/>
+</p>
+
 PROTOCOL: QXBwcm9hY2hpbmcgZmluYWwgZGVzdGluYXRpb24u  
 PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu
 
@@ -18,7 +22,7 @@ Here’s a quick snapshot of who I am:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx" />
   </a>
 </p>
 
@@ -26,7 +30,15 @@ Here’s a quick snapshot of who I am:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,next,go" />
+    <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql" />
+  </a>
+</p>
+
+### Interested In
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb" />
   </a>
 </p>
 
