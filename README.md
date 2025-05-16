@@ -38,6 +38,16 @@ Here’s a quick snapshot of who I am:
   </a>
 </p>
 
+## GitHub Contributions
+
+Watch my GitHub contributions come alive as a childhood game:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
+  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
+</picture>
+
 # End of transmission. Launching module in T-10... Bon Voyage!
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
