@@ -1,7 +1,7 @@
 PROTOCOL: QXBwcm9hY2hpbmcgZmluYWwgZGVzdGluYXRpb24u  
 PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu
 
-<p><strong style="font-size: 28px; font-family: monospace;">Welcome, space explorer!</strong></p>
+<p><strong style="font-size: 28px">Welcome, space explorer!</strong></p>
 
 <p><strong style="font-size: 22px; font-family: monospace;">About Me</strong></p>
 
