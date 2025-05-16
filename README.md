@@ -40,7 +40,7 @@ Here’s a quick snapshot of who I am:
 
 ## GitHub Contributions
 
-Watch my GitHub contributions come alive as a childhood game:
+Watch my GitHub contributions come alive as a childhood classic:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake-dark.svg" />
