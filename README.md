@@ -16,18 +16,18 @@ Here’s a quick snapshot of who I am:
 
 ### Core Stack
 
-[![Core Stack Light](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light)](https://skillicons.dev)<!-- #gh-light-mode-only -->
-[![Core Stack Dark](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark)](https://skillicons.dev)<!-- #gh-dark-mode-only -->
+![Core Stack Light](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light#gh-light-mode-only)
+![Core Stack Dark](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark#gh-dark-mode-only)
 
 ### Currently Studying
 
-[![Studying Light](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light)](https://skillicons.dev)<!-- #gh-light-mode-only -->
-[![Studying Dark](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark)](https://skillicons.dev)<!-- #gh-dark-mode-only -->
+![Studying Light](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light#gh-light-mode-only)
+![Studying Dark](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark#gh-dark-mode-only)
 
 ### Interested In
 
-[![Interested Light](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light)](https://skillicons.dev)<!-- #gh-light-mode-only -->
-[![Interested Dark](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark)](https://skillicons.dev)<!-- #gh-dark-mode-only -->
+![Interested Light](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light#gh-light-mode-only)
+![Interested Dark](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark#gh-dark-mode-only)
 
 ## GitHub Contributions
 
