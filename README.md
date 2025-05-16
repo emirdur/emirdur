@@ -16,45 +16,73 @@ Here’s a quick snapshot of who I am:
 
 ### Core Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow&theme=light" alt="Core Stack 1">
-</picture>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=light" alt="Languages">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git&theme=light" alt="Core Stack 2">
-</picture>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,java,kotlin,bash,pytorch&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,java,kotlin,bash,pytorch&theme=light">
+    <img src="https://skillicons.dev/icons?i=swift,java,kotlin,bash,pytorch&theme=light" alt="More Languages">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,postgres,nginx&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,postgres,nginx&theme=light">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,postgres,nginx&theme=light" alt="Core Stack 3">
-</picture>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,sklearn,linux,react,angular&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,sklearn,linux,react,angular&theme=light">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,linux,react,angular&theme=light" alt="Frameworks">
+  </picture>
+</div>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,aws&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,aws&theme=light">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,aws&theme=light" alt="Backend & Cloud">
+  </picture>
+</div>
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,docker,githubactions,postgres,nginx&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,docker,githubactions,postgres,nginx&theme=light">
+    <img src="https://skillicons.dev/icons?i=git,docker,githubactions,postgres,nginx&theme=light" alt="DevOps">
+  </picture>
+</div>
 
 ### Currently Studying
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light">
-  <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light" alt="Currently Studying">
-</picture>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light">
+    <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light" alt="Currently Studying">
+  </picture>
+</div>
 
 ### Interested In
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=light">
-  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=light" alt="Interested In 1">
-</picture>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=light">
+    <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=light" alt="Future Tech 1">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=light">
-  <img src="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=light" alt="Interested In 2">
-</picture>
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=light">
+    <img src="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=light" alt="Future Tech 2">
+  </picture>
+</div>
 
 ## GitHub Contributions
 
