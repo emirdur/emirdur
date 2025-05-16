@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/space_pixelated.png" width="100%" style="object-fit:fill" alt="space"/>
-</p>
-
 PROTOCOL: QXBwcm9hY2hpbmcgZmluYWwgZGVzdGluYXRpb24u  
 PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu
 
