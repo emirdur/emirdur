@@ -14,12 +14,26 @@ Here’s a quick snapshot of who I am:
 
 ## Skills
 
+## Skills
+
 ### Core Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light" alt="Core Stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow&theme=light" alt="Core Stack 1">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git&theme=light">
+  <img src="https://skillicons.dev/icons?i=sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git&theme=light" alt="Core Stack 2">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,postgres,nginx&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,postgres,nginx&theme=light">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,postgres,nginx&theme=light" alt="Core Stack 3">
 </picture>
 
 ### Currently Studying
@@ -33,9 +47,15 @@ Here’s a quick snapshot of who I am:
 ### Interested In
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light">
-  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light" alt="Interested In">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=light">
+  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra&theme=light" alt="Interested In 1">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=light">
+  <img src="https://skillicons.dev/icons?i=grafana,kubernetes,graphql,mongodb&theme=light" alt="Interested In 2">
 </picture>
 
 ## GitHub Contributions
