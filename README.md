@@ -16,24 +16,18 @@ Here’s a quick snapshot of who I am:
 
 ### Core Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light" alt="Core Stack Light" height="50" />
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark" alt="Core Stack Dark" height="50" />
-</p>
+[![Core Stack Light](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=light)](https://skillicons.dev)<!-- #gh-light-mode-only -->
+[![Core Stack Dark](https://skillicons.dev/icons?i=python,c,cpp,js,ts,swift,java,kotlin,bash,pytorch,tensorflow,sklearn,linux,react,angular,nodejs,express,flask,firebase,aws,git,docker,githubactions,postgres,nginx&theme=dark)](https://skillicons.dev)<!-- #gh-dark-mode-only -->
 
 ### Currently Studying
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light" alt="Studying Light" height="50" />
-  <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark" alt="Studying Dark" height="50" />
-</p>
+[![Studying Light](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=light)](https://skillicons.dev)<!-- #gh-light-mode-only -->
+[![Studying Dark](https://skillicons.dev/icons?i=neovim,next,go,mysql&theme=dark)](https://skillicons.dev)<!-- #gh-dark-mode-only -->
 
 ### Interested In
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light" alt="Interested Light" height="50" />
-  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark" alt="Interested Dark" height="50" />
-</p>
+[![Interested Light](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=light)](https://skillicons.dev)<!-- #gh-light-mode-only -->
+[![Interested Dark](https://skillicons.dev/icons?i=anaconda,fastapi,arduino,azure,cassandra,grafana,kubernetes,graphql,mongodb&theme=dark)](https://skillicons.dev)<!-- #gh-dark-mode-only -->
 
 ## GitHub Contributions
 
