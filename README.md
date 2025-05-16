@@ -8,7 +8,7 @@ PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu
 Here’s a quick snapshot of who I am:
 
 - I enjoy working close to the metal: systems programming, performance tuning, and memory management
-- I build scalable full-stack apps with a strong focus on system design and cloud infrastructure
+- I build scalable full-stack apps with a strong focus on system design, secure CI/CD, and cloud infrastructure
 - I explore ML concepts from efficient data processing to core algorithm implementations
 - I'm passionate about security (CTFs, securing projects, keeping up with latest vulnerabilities and mitigations)
 
