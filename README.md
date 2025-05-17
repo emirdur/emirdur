@@ -97,11 +97,11 @@ Watch my GitHub contributions come alive as a childhood classic:
 
 This is what I'm currently working on:
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <a href="https://github.com/emirdur/NN-ab-ovo">
-        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700"/>
+        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="130px"/>
       </a>
     </td>
   </tr>
