@@ -89,7 +89,7 @@ This is what I'm currently working on:
 
 <p align="center">
   <a href="https://github.com/emirdur/NN-ab-ovo">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="140px"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
   </a>
 </p>
 
