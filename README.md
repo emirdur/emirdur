@@ -89,7 +89,7 @@ This is what I'm currently working on:
 
 <p align="center">
   <a href="https://github.com/emirdur/NN-ab-ovo">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="120px" width="240px"/>
   </a>
 </p>
 
@@ -100,25 +100,25 @@ This is what I'm currently working on:
 
   <p align="center">
     <a href="https://github.com/Northeastern-Electric-Racing/Argos">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700" height="120px" width="240px"/>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/emirdur/seekitnu">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700" height="120px" width="240px"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/emirdur/NBodySim">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700" height="120px" width="240px"/>
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Matt940624/Bird-Species-Distribution-Modeling">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700" height="120px" width="240px"/>
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/emirdur/PredictingClimateUsingAerialImagery">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700" height="100px"/>
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700" height="120px" width="240px"/>
     </a>
   </p>
 
