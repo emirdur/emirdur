@@ -48,7 +48,22 @@ Watch my GitHub contributions come alive as a childhood classic:
   <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
 </picture>
 
+## Thank you
+
+<p align="center">
+  <img src="assets/footer.png" alt="Postcard" width="160"/>
+</p>
+
+<p align="center" style="font-size:small;opacity:0.7">
+  As a token of gratitude for your journey, please accept this postcard. 
+  <br/>
+  <em>Safe travels!</em>
+</p>
+
 # End of transmission. Launching module in T-10... Bon Voyage!
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
-PROTOCOL: RWFzdGVyIGVnZyBjb21pbmcgc29vbi4=
+PROTOCOL: UHNzdCEgVGhlcmUncyBhbiBlYXN0ZXIgZUAhPw==  
+PROTOCOL: V0FSTklORzogU2lnbmFsIGZhZGluZy4g  
+PROTOCOL: OWYgdGhpcyBwYSQmIyA=  
+PROTOCOL: REVCVUc6IENvbm5lY3Rpb24gTG9zdC4=
