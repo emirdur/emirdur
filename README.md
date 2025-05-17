@@ -67,29 +67,19 @@ Watch my GitHub contributions come alive as a childhood classic:
   <br/>
 
 <!-- Switch to github-readme-stats? -->
-<table align="center">
-  <tr>
-    <!-- <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=emirdur&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
-    </td> -->
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=emirdur&theme=dark" height="160px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=3" height="160px"/>
-    </td>
-  </tr>
-</table>
-<!-- <table align="center">
-  <tr>
-    <td>
+<p align="center">
+    <!--
+      <img src="https://github-readme-stats.vercel.app/api?username=emirdur&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>&nbsp;&nbsp;&nbsp;
+    -->
+    <img src="https://streak-stats.demolab.com/?user=emirdur&theme=dark" height="160px"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=3" height="160px"/>
+</p>
+<!-- <p align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=emirdur&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="160px"/>
-    </td>
-    <td>
+      &nbsp;&nbsp;&nbsp;
       <img src="https://github-contributor-stats.vercel.app/api?username=emirdur&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160px"/>
-    </td>
-  </tr>
-</table> -->
+</p> -->
 
 </details>
 
@@ -97,59 +87,40 @@ Watch my GitHub contributions come alive as a childhood classic:
 
 This is what I'm currently working on:
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/emirdur/NN-ab-ovo">
-        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="130px"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/emirdur/NN-ab-ovo">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700" height="130px"/>
+  </a>
+</p>
 
 <details>
   <summary>For more projects I've worked on, click me.</summary>
 
   <br/>
 
-  <table align="center">
-    <tr>
-      <td>
-       <a href="https://github.com/Northeastern-Electric-Racing/Argos">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/emirdur/seekitnu">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/emirdur/NBodySim">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Matt940624/Bird-Species-Distribution-Modeling">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/emirdur/PredictingClimateUsingAerialImagery">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700"/>
-        </a>
-      </td>
-      <td></td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/Northeastern-Electric-Racing/Argos">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/emirdur/seekitnu">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/emirdur/NBodySim">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Matt940624/Bird-Species-Distribution-Modeling">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/emirdur/PredictingClimateUsingAerialImagery">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700"/>
+    </a>
+  </p>
 
 </details>
 
