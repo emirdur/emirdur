@@ -203,7 +203,7 @@ This is what I'm currently working on:
     </a>
   </div> -->
 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
+<!-- <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td>
       <a href="https://github.com/Northeastern-Electric-Racing/Argos">
@@ -235,6 +235,40 @@ This is what I'm currently working on:
       </a>
     </td>
   </tr>
+</table> -->
+
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/Northeastern-Electric-Racing/Argos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/emirdur/seekitnu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/emirdur/NBodySim">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://github.com/Matt940624/Bird-Species-Distribution-Modeling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding: 10px;">
+      <a href="https://github.com/emirdur/PredictingClimateUsingAerialImagery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -254,7 +288,6 @@ This is what I'm currently working on:
 # End of transmission. Module launch in T-10… see you in orbit, explorer!
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
-PROTOCOL: VFJBTlNNSVNTSU9OIEVOQ1JZUFRFRCAtIGRpc3BsYXlpbmcgcGxhaW4gdGV4dCBhcyBiYXNlNjQ=  
 PROTOCOL: UHNzdCEgVGhlcmUncyBhbiBlYXN0ZXIgZUAhPw==  
 PROTOCOL: V0FSTklORzogU2lnbmFsIGZhZGluZy4g  
 PROTOCOL: OWYgdGhpcyBwYSQmIyA=  
