@@ -144,7 +144,6 @@ Watch my GitHub contributions come alive as a childhood classic:
 <br/>
 
 <details>
-  <br/>
   <summary>For more GitHub stats, click me.</summary>
 
   <br/>
