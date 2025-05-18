@@ -1,7 +1,8 @@
 PROTOCOL: QXBwcm9hY2hpbmcgZmluYWwgZGVzdGluYXRpb24u  
-PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu
+PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu  
+PROTOCOL: TRANSMISSION DECRYPTED - displaying base64 as plain text
 
-# Welcome, space explorer!
+# Welcome, explorer!
 
 ## About Me
 
@@ -241,7 +242,7 @@ This is what I'm currently working on:
 ## Thank You
 
 <p align="center">
-  <img src="assets/footer.png" alt="Postcard" width="160"/>
+  <img src="https://github.com/emirdur/emirdur/blob/main/assets/footer.png" alt="Postcard" width="160"/>
 </p>
 
 <p align="center" style="font-size:small;opacity:0.7">
@@ -250,9 +251,10 @@ This is what I'm currently working on:
   <em>Safe travels!</em>
 </p>
 
-# End of transmission. Launching module in T-10... Bon Voyage!
+# End of transmission. Launching module in T-10... See you in orbit!
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
+PROTOCOL: VFJBTlNNSVNTSU9OIEVOQ1JZUFRFRCAtIGRpc3BsYXlpbmcgcGxhaW4gdGV4dCBhcyBiYXNlNjQ=  
 PROTOCOL: UHNzdCEgVGhlcmUncyBhbiBlYXN0ZXIgZUAhPw==  
 PROTOCOL: V0FSTklORzogU2lnbmFsIGZhZGluZy4g  
 PROTOCOL: OWYgdGhpcyBwYSQmIyA=  
