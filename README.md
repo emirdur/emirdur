@@ -251,7 +251,7 @@ This is what I'm currently working on:
   <em>Safe travels!</em>
 </p>
 
-# End of transmission. Launching module in T-10... See you in orbit!
+# End of transmission. Module launch in T-10… see you in orbit, explorer!
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
 PROTOCOL: VFJBTlNNSVNTSU9OIEVOQ1JZUFRFRCAtIGRpc3BsYXlpbmcgcGxhaW4gdGV4dCBhcyBiYXNlNjQ=  
