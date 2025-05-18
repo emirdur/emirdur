@@ -15,7 +15,7 @@ Here’s a quick snapshot of who I am:
 ## Current Focus
 
 <details>
-  <summary>An intern wrote some code. Let's have a look shall we?</summary>
+  <summary>Someone left some code lying around. Let's have a look shall we?</summary>
 
 ```python
 class CurrentPursuits:
@@ -29,7 +29,7 @@ class CurrentPursuits:
         self.learning = [
             "GPU acceleration (CUDA, Metal)",
             "Side-channel attacks (Spectre & Meltdown)",
-            "Network security (packet interception, traffic analysis)"
+            "Instruction pipelining (branch prediction)"
         ]
 
         self.writing = {
@@ -40,18 +40,17 @@ class CurrentPursuits:
 
         self.exploring_next = [
             "Chip-level design",
-            "Instruction pipelining",
-            "Hardware security primitives"
+            "Network security (packet interception, traffic analysis)",
         ]
 
     def current_focus(self):
-        return f"Systems-level neural network development through my project {self.building['project']}"
+        return f"Systems-level open-source development through my project {self.building['project']}"
 
     def interests(self):
         return [topic.split(" (")[0] for topic in self.learning]
 
     def __str__(self):
-        return "Always learning, always building."
+        return "Coding with creativity."
 ```
 
 </details>
@@ -66,10 +65,8 @@ print(my_pursuits)
 
 </details>
 
-<br>
-
 ```console
-Always learning, always building.
+Coding with creativity.
 ```
 
 <details>
@@ -82,11 +79,9 @@ print(f"Core interests: {', '.join(my_pursuits.interests())}")
 
 </details>
 
-<br>
-
 ```console
-Current focus: Systems-level neural network development through my project abovo
-Core interests: GPU acceleration, Side-channel attacks, Network security
+Current focus: Systems-level open-source development through my project abovo
+Core interests: GPU acceleration, Side-channel attacks, Instruction pipelining
 ```
 
 ## Skills
@@ -137,8 +132,6 @@ Watch my GitHub contributions come alive as a childhood classic:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
   <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
 </picture>
-
-<br />
 
 <details>
   <summary>For more GitHub stats, click me.</summary>
