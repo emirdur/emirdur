@@ -17,6 +17,8 @@ Here’s a quick snapshot of who I am:
 <details>
   <summary>Someone left some code lying around. Let's have a look shall we?</summary>
 
+  <br/>
+
 ```python
 class CurrentPursuits:
     def __init__(self):
@@ -58,6 +60,8 @@ class CurrentPursuits:
 <details>
   <summary>Let's try and run it...</summary>
 
+  <br/>
+
 ```python
 my_pursuits = CurrentPursuits()
 print(my_pursuits)
@@ -71,6 +75,8 @@ Coding with creativity.
 
 <details>
   <summary>Let's get some more info...</summary>
+
+  <br/>
 
 ```python
 print(f"Current focus: {my_pursuits.current_focus()}")
