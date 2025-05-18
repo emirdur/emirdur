@@ -139,6 +139,8 @@ Watch my GitHub contributions come alive as a childhood classic:
   <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
 </picture>
 
+<br/>
+
 <details>
   <summary>For more GitHub stats, click me.</summary>
 
