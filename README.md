@@ -12,6 +12,83 @@ Here’s a quick snapshot of who I am:
 - I explore ML concepts like efficient data processing, core algorithm implementations, and the math behind it
 - I'm passionate about security—CTFs, securing projects, and keeping up with latest vulnerabilities and mitigations
 
+## Current Focus
+
+<details>
+  <summary>An intern wrote some code. Let's have a look shall we?</summary>
+
+```python
+class CurrentPursuits:
+    def __init__(self):
+        self.building = {
+            "project": "abovo",
+            "description": "C++ neural network engine with Python bindings",
+            "focus": "low-level ML optimization techniques"
+        }
+
+        self.learning = [
+            "GPU acceleration (CUDA, Metal)",
+            "Side-channel attacks (Spectre & Meltdown)",
+            "Network security (packet interception, traffic analysis)"
+        ]
+
+        self.writing = {
+            "topic": "CTF Walkthroughs",
+            "platform": "PicoCTF",
+            "status": "coming_soon"
+        }
+
+        self.exploring_next = [
+            "Chip-level design",
+            "Instruction pipelining",
+            "Hardware security primitives"
+        ]
+
+    def current_focus(self):
+        return f"Systems-level neural network development through my project {self.building['project']}"
+
+    def interests(self):
+        return [topic.split(" (")[0] for topic in self.learning]
+
+    def __str__(self):
+        return "Always learning, always building."
+```
+
+</details>
+
+<details>
+  <summary>Let's try and run it...</summary>
+
+```python
+my_pursuits = CurrentPursuits()
+print(my_pursuits)
+```
+
+</details>
+
+<br>
+
+```console
+Always learning, always building.
+```
+
+<details>
+  <summary>Let's get some more info...</summary>
+
+```python
+print(f"Current focus: {my_pursuits.current_focus()}")
+print(f"Core interests: {', '.join(my_pursuits.interests())}")
+```
+
+</details>
+
+<br>
+
+```console
+Current focus: Systems-level neural network development through my project abovo
+Core interests: GPU acceleration, Side-channel attacks, Network security
+```
+
 ## Skills
 
 ### Core Stack
@@ -61,6 +138,8 @@ Watch my GitHub contributions come alive as a childhood classic:
   <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/emirdur/emirdur/output/github-snake.svg" />
 </picture>
 
+<br />
+
 <details>
   <summary>For more GitHub stats, click me.</summary>
 
@@ -87,18 +166,18 @@ Watch my GitHub contributions come alive as a childhood classic:
 
 This is what I'm currently working on:
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/emirdur/NN-ab-ovo">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NN-ab-ovo&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
   </a>
-</p>
+</div>
 
 <details>
   <summary>For more projects I've worked on, click me.</summary>
 
   <br/>
 
-  <div align="center">
+  <!-- <div align="center">
     <a href="https://github.com/Northeastern-Electric-Racing/Argos">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
     </a>
@@ -106,8 +185,7 @@ This is what I'm currently working on:
     <a href="https://github.com/emirdur/seekitnu">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
     </a>
-  </div>
-  <div align="center">
+    <br/>
     <a href="https://github.com/emirdur/NBodySim">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
     </a>
@@ -115,43 +193,45 @@ This is what I'm currently working on:
     <a href="https://github.com/Matt940624/Bird-Species-Distribution-Modeling">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
     </a>
-  </div>
-  <div align="center">
+    <br/>
     <a href="https://github.com/emirdur/PredictingClimateUsingAerialImagery">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
     </a>
-  </div>
+  </div> -->
 
-</details>
-
-## Current Focus
-
-Here's a summary of my active pursuits:
-
-- Building a C++ neural network engine
-- Diving into GPU acceleration topics (CUDA, Metal)
-- Investigating Spectre & Meltdown side-channels and network attacks
-- Tackling CTFs on PicoCTF and exploring mitigations
-- Exploring chip-level design and instruction pipelining
-
-<details>
-  <summary>For more on what I’m building, reading, and thinking about next, click me.</summary>
-
-### Currently Building
-
-Building abovo, a C++ neural network engine with Python bindings to teach low-level ML optimization techniques.
-
-### Currently Reading
-
-Looking at GPU acceleration topics using CUDA and Metal. Investigating Spectre & Meltdown side-channel attacks, packet interception techniuqes, and network sniffing (non-offensive).
-
-### Writings & Talks
-
-I'm planning on writing PicoCTF walkthroughs on how to solve certain CTF challenges.
-
-### Up Next
-
-Jumping into chip-level design and isntruction pipelining.
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Northeastern-Electric-Racing/Argos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern-Electric-Racing&repo=Argos&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/emirdur/seekitnu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=seekitnu&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emirdur/NBodySim">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=NBodySim&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Matt940624/Bird-Species-Distribution-Modeling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matt940624&repo=Bird-Species-Distribution-Modeling&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/emirdur/PredictingClimateUsingAerialImagery">
+        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=emirdur&repo=PredictingClimateUsingAerialImagery&theme=dark&bg_color=11151b&icon_color=FFD700&description_lines_count=3" height="200" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
