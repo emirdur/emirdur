@@ -23,37 +23,23 @@ Here’s a quick snapshot of who I am:
 ```python
 class CurrentPursuits:
     def __init__(self):
-        self.building = {
-            "project": "abovo",
-            "description": "C++ neural network engine with Python bindings",
-            "focus": "low-level ML optimization techniques"
-        }
+        self.building = [
+          "Enhancing my neural network engine with GPU acceleration (CUDA, Metal)",
+          "Custom Neovim setup"
+        ]
 
         self.learning = [
-            "GPU acceleration (CUDA, Metal)",
-            "Side-channel attacks (Spectre & Meltdown)",
-            "Instruction pipelining (branch prediction)"
+          "iOS app deployment",
+          "More full-stack web technologies (serverless, Next.js)"
         ]
-
-        self.writing = {
-            "topic": "CTF Walkthroughs",
-            "platform": "PicoCTF",
-            "status": "coming_soon"
-        }
 
         self.exploring_next = [
-            "Chip-level design",
-            "Network security (packet interception, traffic analysis)",
+          "Chip-level hardware design (Verilog, FPGA, instruction pipelining)",
+          "Side-channel attacks (Spectre/Meltdown, cache timing, speculative execution)"
         ]
 
-    def current_focus(self):
-        return f"Systems-level open-source development through my project {self.building['project']}"
-
-    def interests(self):
-        return [topic.split(" (")[0] for topic in self.learning]
-
     def __str__(self):
-        return "Coding with creativity."
+        return "blending systems, AI, security, and full-stack development into creative solutions."
 ```
 
 </details>
@@ -65,30 +51,13 @@ class CurrentPursuits:
 
 ```python
 my_pursuits = CurrentPursuits()
-print(my_pursuits)
+print(f"My mission: {my_pursuits}")
 ```
 
 </details>
 
 ```console
-Coding with creativity.
-```
-
-<details>
-  <summary>Let's get some more info...</summary>
-
-  <br/>
-
-```python
-print(f"Current focus: {my_pursuits.current_focus()}")
-print(f"Core interests: {', '.join(my_pursuits.interests())}")
-```
-
-</details>
-
-```console
-Current focus: Systems-level open-source development through my project abovo
-Core interests: GPU acceleration, Side-channel attacks, Instruction pipelining
+My mission: blending systems, AI, security, and full-stack development into creative solutions.
 ```
 
 ## Skills
@@ -102,7 +71,7 @@ Core interests: GPU acceleration, Side-channel attacks, Instruction pipelining
 </p>
 
 <details>
-  <summary>For more skills, click me.</summary>
+  <summary>For more skills, click here.</summary>
 
 ### Previously Used
 
@@ -145,7 +114,7 @@ Watch my GitHub contributions come alive as a childhood classic:
 <br/>
 
 <details>
-  <summary>For more GitHub stats, click me.</summary>
+  <summary>For more GitHub stats, click here.</summary>
 
   <br/>
 
@@ -177,7 +146,7 @@ This is what I'm currently working on:
 </div>
 
 <details>
-  <summary>For more projects I've worked on, click me.</summary>
+  <summary>For more projects I've worked on, click here.</summary>
 
   <br/>
 
