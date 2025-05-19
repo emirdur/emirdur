@@ -2,7 +2,7 @@ PROTOCOL: QXBwcm9hY2hpbmcgZmluYWwgZGVzdGluYXRpb24u
 PROTOCOL: Tm9kZSBsaW5rZWQuIERlY3J5cHRpbmcgY29kZWJhc2Uu  
 PROTOCOL: TRANSMISSION DECRYPTED - displaying base64 as plain text
 
-# Welcome, explorer!
+# Welcome!
 
 ## About Me
 
@@ -45,19 +45,19 @@ class CurrentPursuits:
 </details>
 
 <details>
-  <summary>Let's try and run it...</summary>
+  <summary>Let's try running it...</summary>
 
   <br/>
 
 ```python
 my_pursuits = CurrentPursuits()
-print(f"My mission: {my_pursuits}")
+print(f"My current focus: {my_pursuits}")
 ```
 
 </details>
 
 ```console
-My mission: blending systems, AI, security, and full-stack development into creative solutions.
+My current focus: blending systems, AI, security, and full-stack development into creative solutions.
 ```
 
 ## Skills
@@ -254,7 +254,7 @@ This is what I'm currently working on:
   <em>Safe travels!</em>
 </p>
 
-# End of transmission. Module launch in T-10… see you in orbit, explorer!
+# End of transmission. Module launch in T-10… see you in orbit!
 
 PROTOCOL: Tm9kZSB1bmxpbmtlZC4gRW5jcnlwdGluZyBjb2RlYmFzZS4=  
 PROTOCOL: UHNzdCEgVGhlcmUncyBhbiBlYXN0ZXIgZUAhPw==  
