@@ -245,7 +245,7 @@ This is what I'm currently working on:
 ## Thank You
 
 <p align="center">
-  <img src="https://github.com/emirdur/emirdur/blob/main/assets/footer.png" alt="Postcard" width="160"/>
+  <img src="https://github.com/emirdur/emirdur/blob/main/assets/postcard.png" alt="Postcard" width="160"/>
 </p>
 
 <p align="center" style="font-size:small;opacity:0.7">
