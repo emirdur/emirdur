@@ -244,15 +244,20 @@ This is what I'm currently working on:
 
 ## Thank You
 
+<details>
+  <summary>One last thing before you go...</summary>
+
 <p align="center">
   <img src="https://github.com/emirdur/emirdur/blob/main/assets/postcard.png" alt="Postcard" width="160"/>
 </p>
 
 <p align="center" style="font-size:small;opacity:0.7">
-  As a token of gratitude for your journey, please accept this postcard. 
+  Before you continue your voyage, please accept this token from the archive.
   <br/>
   <em>Safe travels!</em>
 </p>
+
+</details>
 
 # End of transmission. Module launch in T-10… see you in orbit!
 
