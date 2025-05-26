@@ -6,4 +6,4 @@
 
 - Coding in `.py`, `.cpp`, `.ts`
 - Learning additional full-stack web technologies and iOS app deployment
-- Interested in chip-level hardware design and side-channel attacks
+- Interested in hardware-software co-design and side-channel attacks
