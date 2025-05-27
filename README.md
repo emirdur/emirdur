@@ -5,5 +5,5 @@
 #### Building solutions at the intersection of systems, AI, security, and full-stack development.
 
 - Coding in `.py`, `.cpp`, `.ts`
-- Learning additional full-stack web technologies and iOS app deployment
+- Learning system design, full-stack web technologies, and iOS app deployment
 - Interested in hardware-software co-design and side-channel attacks
