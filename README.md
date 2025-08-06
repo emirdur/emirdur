@@ -5,5 +5,11 @@
 #### Building solutions at the intersection of systems, AI, security, and full-stack development.
 
 - Coding in `.py`, `.cpp`, `.ts`
-- Learning additional full-stack web technologies and iOS app deployment
-- Interested in chip-level hardware design and side-channel attacks
+- Learning system design, full-stack web technologies, and iOS app deployment
+- Interested in hardware-software co-design and side-channel attacks
+
+#### My projects include:
+
+- [Neural Network Engine](https://github.com/emirdur/abovo)
+- [Particle Physics Simulator](https://github.com/emirdur/NBodySim)
+- [Daily Photo Challenge Platform](https://github.com/emirdur/seekitnu)

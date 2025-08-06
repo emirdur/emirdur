@@ -85,7 +85,7 @@ My current focus: blending systems, AI, security, and full-stack development int
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql" />
+    <img src="https://skillicons.dev/icons?i=neovim,next,go,mysql,rust" />
   </a>
 </p>
 
