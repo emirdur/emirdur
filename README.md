@@ -1,7 +1,5 @@
 ### Hi! I'm Emir. 👋
 
-[Click here](https://github.com/emirdur/emirdur/blob/main/README-fun.md) for a more immersive experience.
-
 #### Building solutions at the intersection of systems, AI, security, and full-stack development.
 
 - Coding in `.py`, `.cpp`, `.ts`
