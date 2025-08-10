@@ -1,12 +1,14 @@
-### Hi! I'm Emir. 👋
+### Hey there! 👋
 
-#### Building solutions at the intersection of systems, AI, security, and full-stack development.
+
+
+#### I'm Emir, a full-stack programmer passionate about systems, AI, security, and web development.
 
 - Coding in `.py`, `.cpp`, `.ts`
-- Learning system design, full-stack web technologies, and iOS app deployment
-- Interested in hardware-software co-design and side-channel attacks
+- Learning system design and full-stack web technologies
+- Interested in hardware-software co-design
 
-#### My projects include:
+#### Here are some of my projects:
 
 - [Neural Network Engine](https://github.com/emirdur/abovo)
 - [Particle Physics Simulator](https://github.com/emirdur/NBodySim)
