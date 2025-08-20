@@ -13,3 +13,4 @@
 - [Neural Network Engine](https://github.com/emirdur/abovo)
 - [Particle Physics Simulator](https://github.com/emirdur/NBodySim)
 - [Daily Photo Challenge Platform](https://github.com/emirdur/seekitnu)
+- [AI Medical Navigator](https://github.com/emirdur/ai-med-navigator)
